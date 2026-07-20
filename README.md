@@ -41,7 +41,8 @@ L’approche repose sur l’expérimentation, l’écoute, la compréhension des
 ### 6. Contact et liens
 
 - [Site Doctor Yohmss](https://doctor.yohmss.eu/)
-- **Chaîne YouTube Doctor Yohmss : URL à ajouter**
+- [Site artiste Yohmss](https://yohmss.eu/)
+- [Tutoriels en français sur YouTube](https://www.youtube.com/@doctor-yohmss)
 - [Profil GitHub](https://github.com/Yohmss)
 
 ---
@@ -87,5 +88,6 @@ The approach is based on experimentation, critical listening, understanding audi
 ### 6. Contact and links
 
 - [Doctor Yohmss website](https://doctor.yohmss.eu/)
-- **Doctor Yohmss YouTube channel: URL to be added**
+- [Yohmss artist website](https://yohmss.eu/)
+- [French-language tutorials on YouTube](https://www.youtube.com/@doctor-yohmss)
 - [GitHub profile](https://github.com/Yohmss)
