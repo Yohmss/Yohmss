@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/yohmss-logo-2026.png" alt="Logo Yohmss" width="300">
+  <img src="assets/yohmss-logo-2026-transparent.png" alt="Logo Yohmss" width="300">
 </p>
 
 # Doctor Yohmss
@@ -31,7 +31,7 @@ Mon travail associe développement d’outils audio, production musicale, expér
 ### 4. Doctor Yohmss
 
 <p align="center">
-  <img src="assets/doctor-yohmss-logo.png" alt="Logo Doctor Yohmss" width="260">
+  <img src="assets/doctor-yohmss-logo-transparent.png" alt="Logo Doctor Yohmss" width="260">
 </p>
 
 Doctor Yohmss est mon espace consacré aux tutoriels de production musicale, au sound design, au traitement audio et à Bitwig Studio.
